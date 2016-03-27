@@ -1,3 +1,53 @@
 rochester 44.030 -92.437
 bellevue 47.610 -122.199
 madison 45.038 -96.311
+santa barbara 34.414 -119.849
+boulder 40.015 -105.270
+palo alto 37.468 -122.144
+bismarck 46.826 -100.778
+ann arbor 42.279 -83.732
+iowa city 41.661 -91.530
+sioux falls 43.55 -96.700
+walnut creek 37.910 -122.065
+san mateo 37.563 -122.325
+fort collins 40.585 -105.084
+overland park 38.982 -94.671
+fargo 46.877 -96.789
+rapid city 44.080 -103.231
+rockville 39.084 -77.153
+ashland 42.195 -122.709
+santa cruz 36.974 -122.031
+olympia 47.038 -122.900
+charlottesville 38.029 -78.477
+edina 44.889 -93.349
+longmont 40.167 -105.102
+littleton 39.613 -105.017
+kirkland 47.681 -122.209
+lakewood 39.705 -105.081
+boise 43.619 -116.215
+grand forks
+san luis obispo
+davis
+sarasota
+missoula
+ventura
+bozeman
+ames
+chapel hill
+honolulu
+corvallis
+billings
+scottsdale
+loveland
+newton
+manhattan
+lafayette
+menlo park
+columbia
+reno
+lincoln
+arlington
+irvine
+downers grove
+aberdeen
+bend
