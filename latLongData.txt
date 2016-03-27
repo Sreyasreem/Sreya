@@ -25,29 +25,30 @@ littleton 39.613 -105.017
 kirkland 47.681 -122.209
 lakewood 39.705 -105.081
 boise 43.619 -116.215
-grand forks
-san luis obispo
-davis
-sarasota
-missoula
-ventura
-bozeman
-ames
-chapel hill
-honolulu
-corvallis
-billings
-scottsdale
-loveland
-newton
-manhattan
-lafayette
-menlo park
-columbia
-reno
-lincoln
-arlington
-irvine
-downers grove
-aberdeen
-bend
+grand forks 47.925 -97.033
+san luis obispo 35.283 -120.659
+davis 38.545 -121.741
+sarasota 27.336 -82.531
+missoula 46.863 -114.012
+ventura 34.275 -119.229
+bozeman 45.684 -111.051
+ames 42.035 -93.62
+chapel hill 35.913 -79.056
+honolulu 21.307 -157.859
+corvallis 44.565 -123.262
+billings 45.783 -108.501
+scottsdale 33.494 -111.926
+loveland 40.398 -105.075
+newton 42.337 -71.209
+manhattan 39.184 -96.572
+lafayette 39.994 -105.089
+menlo park 37.453 -122.182
+columbia 31.253 -89.835
+reno 39.529 -119.814
+lincoln 40.809 -96.675
+arlington 38.88 -77.107
+irvine 33.684 -117.795
+downers grove 41.809 -88.011
+aberdeen 45.465 -98.487
+bend 44.058 -121.315
+pleasanton 37.662 -121.875
