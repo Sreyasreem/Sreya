@@ -52,3 +52,9 @@ downers grove 41.809 -88.011
 aberdeen 45.465 -98.487
 bend 44.058 -121.315
 pleasanton 37.662 -121.875
+salt lake city 40.771 -111.896
+alexandria 38.820 -77.050
+white plains 41.034 -73.763
+monterey 36.606 -121.914
+boca raton 26.368 -80.129
+dickinson 46.799 -102.797
